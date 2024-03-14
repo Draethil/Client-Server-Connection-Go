@@ -5,3 +5,4 @@ Some Notes:
 - Server create Tickets and broadcasting them to all Clients
 - Clients can choose Tickets and assign themselves
 - Server manages all Ticket Assignments
+- Example Logs are available
