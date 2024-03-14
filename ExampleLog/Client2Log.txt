@@ -1,0 +1,45 @@
+Microsoft Windows [Version 10.0.19042.746]
+(c) 2020 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\Julius>cd C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3>go run Client.go
+Client started...
+Please enter ClientID: Client2
+
+Your ClientID: Client2
+You are now connected with the Server!
+
+No Tickets available
+number: selfassignment, q: quit
+
+Tickets:
+1: ticket1 (Not assigned yet)
+number: selfassignment, q: quit
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+number: selfassignment, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+number: selfassignment, q: quit
+2
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+number: selfassignment, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+number: selfassignment, q: quit
+q
+
+Client closed...
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3>

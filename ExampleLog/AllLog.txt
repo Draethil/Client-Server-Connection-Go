@@ -1,0 +1,347 @@
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Server started...
+No Tickets available
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+Client started...
+Please enter ClientID: Client1
+
+Your ClientID: Client1
+You are now connected with the Server!
+
+No Tickets available
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+New Client connected: Client1
+
+No Tickets available
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Client started...
+Please enter ClientID: Client2
+
+Your ClientID: Client2
+You are now connected with the Server!
+
+No Tickets available
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+New Client connected: Client2
+
+No Tickets available
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Client started...
+Please enter ClientID: Client3
+
+Your ClientID: Client3
+You are now connected with the Server!
+
+Tickets:
+1: ticket1 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+New Client connected: Client3
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+3
+Please enter a number, thats is between(exclusive) 0 and 3!
+0
+Please enter a number, thats is between(exclusive) 0 and 3!
+1
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+1
+It´s already your Ticket
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+2
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client1:
+
+q
+
+Client closed...
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Client: 'Client1' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+number: selfassignment, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client2:
+
+q
+
+Client closed...
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Client: 'Client2' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Not assigned yet)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Not assigned yet)
+number: selfassignment, q: quit
+4
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+4
+It´s already your Ticket
+1
+Sorry, This Ticket is already taken!
+3
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Client3)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+
+-----------------------------------------------------------------------------------------------------------------------
+Client3:
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Client3)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+3
+It´s already your Ticket
+q
+
+Client closed...
+
+-----------------------------------------------------------------------------------------------------------------------
+Server:
+
+Client: 'Client3' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Client3)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+q
+
+Server closed...
+
+-----------------------------------------------------------------------------------------------------------------------

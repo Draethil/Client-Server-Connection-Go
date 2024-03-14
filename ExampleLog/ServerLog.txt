@@ -1,0 +1,104 @@
+Microsoft Windows [Version 10.0.19042.746]
+(c) 2020 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\Julius>cd C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3>go run Server.go
+Server started...
+No Tickets available
+n: new ticket, q: quit
+
+New Client connected: Client1
+
+No Tickets available
+n: new ticket, q: quit
+
+New Client connected: Client2
+
+No Tickets available
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+
+New Client connected: Client3
+
+Tickets:
+1: ticket1 (Not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Not assigned yet)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+
+Client: 'Client1' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+n: new ticket, q: quit
+
+Client: 'Client2' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+n: new ticket, q: quit
+n
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Not assigned yet)
+n: new ticket, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Not assigned yet)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Client3)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+
+Client: 'Client3' disconnected!
+
+Tickets:
+1: ticket1 (Client1)
+2: ticket2 (Client2)
+3: ticket3 (Client3)
+4: ticket4 (Client3)
+n: new ticket, q: quit
+q
+
+Server closed...
+
+C:\FH Aachen\Semester5\KMPS\Teil2\Praktikum\Praktika\Praktikum3>
